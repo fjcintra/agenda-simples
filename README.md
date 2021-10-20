@@ -1,3 +1,5 @@
 # agenda-basica
 
-Este projeto visa o aprendizado da linguagem Python, onde será implementado um sistema básico de uma agenda que armazena Nome, Telefone e E-mail de cada contato.
+This is a basic agenda created for practicing purposes.
+Here the Python language is used to implemente all the funcionatilies on the software.
+Please read the ChangeLog file for more details about each version.
